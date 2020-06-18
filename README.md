@@ -1,5 +1,9 @@
+![Banner ><](/images/banner.jpg)
+
+
 # Imagebot
 A Telegram bot for searching image
+
 
 ### Demo
 <p align="center"><img src="/images/bot.gif"></p>
