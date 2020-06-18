@@ -2,7 +2,7 @@
 A Telegram bot for searching image
 
 ### Demo
-![Video](/images/bot.gif)
+![Video ><](/images/bot.gif)
 
 
 ### Requirement
