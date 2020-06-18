@@ -50,6 +50,7 @@ def reply(update, context):
     
     # Reply or send  msg / image url to user
     update.message.reply_text("search keyword: "+user_input+"\nURL:"+url)
+```
 
 Write main function
 ```python
@@ -64,7 +65,6 @@ def main():
 
 ### Execution
 `python imagebot.py`
-
 
 
 ### References
