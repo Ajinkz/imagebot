@@ -2,7 +2,7 @@
 A Telegram bot for searching image
 
 ### Demo
-<p align="center"><img width="460" height="300" src="/images/bot.gif"></p>
+<p align="center"><img src="/images/bot.gif"></p>
 ![Video ><](/images/bot.gif)
 
 
