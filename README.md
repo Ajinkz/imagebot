@@ -3,14 +3,10 @@
 # Imagebot
 A Telegram bot for searching image
 
-
 ### Demo
 <p align="center"><img src="/images/bot.gif"></p>
-![Video ><](/images/bot.gif)
 
-
-
-### Requirement
+### Requirements
 - `requests`for handlying api 
 - `python-telegram-bot` library to acccess telegram apis
 
