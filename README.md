@@ -1,4 +1,4 @@
-![Banner ><](/images/banner.jpg)
+![Banner](/images/banner.jpg)
 
 
 # Imagebot
