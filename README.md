@@ -6,6 +6,16 @@ A Telegram bot for searching image
 ### Demo
 <p align="center"><img src="/images/bot.gif"></p>
 
+### Register a bot on [Telegram](https://t.me/botfather)
+1. Open Telegram
+2. Search @ botfather
+3. Type /newbot .
+4. It will show “Alright, a new bot. How are we going to call it? Please choose a name for your bot.”
+5. Type the name of your bot.
+6. you can access your botusing such url `https://telegram.me/YOUR_BOT_USERNAME` 
+7. your token should seems like this: `752713328:AAFQYLO6CJJnrwKnfo9MSqZUjCiue5XYYrw`
+
+
 ### Requirements
 - `requests`for handlying api 
 - `python-telegram-bot` library to acccess telegram apis
